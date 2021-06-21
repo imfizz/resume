@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Francis Ilacad",
+    "occupation": "Freelancer",
+    "description": "I'm excited to learn and build wonder stuffs",
+    "image": "profilepic1.jpg",
+    "bio": "Hi there! I am Francis! You might also know me as Kiko. I've been coding for over 5 years now. As a Web Developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me if you're interested!",
+    "email": "filacad22@gmail.com",
+    "phone": "+63 9060766219",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Cariñosa Street",
+      "city": "Novaliches",
+      "state": "Quezon City",
+      "zip": "1117"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
@@ -24,7 +24,7 @@
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/francisalbert.ilacad/",
         "className": "fa fa-facebook"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/imfizz",
         "className": "fa fa-github"
       }
     ]
@@ -48,27 +48,27 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Quezon City University",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "August 2022",
+        "description": "Graduated with Honours"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Freelancer",
+        "title": "Working Student",
+        "years": "May 2020 - Present",
+        "description": "Build a Stunning and Responsive Website for you. Contact me now."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "UI/UX",
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "MERN Stack",
         "level": "85%"
       },
       {
@@ -80,7 +80,7 @@
         "level": "99%"
       },
       {
-        "name": "Web Development",
+        "name": "PHP",
         "level": "95%"
       }
     ]
@@ -88,16 +88,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Get Vibes Music",
         "category": "",
         "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "url": "https://getvibesv2.netlify.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Youtube Redesign(Vanilla JavaScript)",
         "category": "",
         "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "url": "https://ytredesign.netlify.app/"
       },
       {
         "title": "LinkedIn Clone (React JS)",
